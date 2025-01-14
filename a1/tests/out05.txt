@@ -1,0 +1,8 @@
+Examining Science and Engineering Students' Attitudes Towards Computer Science
+SURVEY RESPONSE STATISTICS
+
+NUMBER OF RESPONDENTS: 5
+
+AVERAGE SCORES PER RESPONDENT
+
+C:4.12,I:3.40,G:4.76,U:4.13,P:4.15
